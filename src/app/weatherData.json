@@ -1,0 +1,335 @@
+{
+    "cities": [
+      {
+        "name": "Delhi",
+        "temperature": {
+          "current": 30,
+          "high": 35,
+          "low": 25
+        },
+        "humidity": 60,
+        "condition": "Clear",
+        "windSpeed": 15
+      },
+      {
+        "name": "Mumbai",
+        "temperature": {
+          "current": 28,
+          "high": 32,
+          "low": 24
+        },
+        "humidity": 75,
+        "condition": "Partly Cloudy",
+        "windSpeed": 10
+      },
+      {
+        "name": "Bengaluru",
+        "temperature": {
+          "current": 22,
+          "high": 30,
+          "low": 20
+        },
+        "humidity": 65,
+        "condition": "Sunny",
+        "windSpeed": 12
+      },
+      {
+        "name": "Kolkata",
+        "temperature": {
+          "current": 32,
+          "high": 36,
+          "low": 28
+        },
+        "humidity": 80,
+        "condition": "Thunderstorms",
+        "windSpeed": 20
+      },
+      {
+        "name": "Chennai",
+        "temperature": {
+          "current": 34,
+          "high": 37,
+          "low": 30
+        },
+        "humidity": 70,
+        "condition": "Sunny",
+        "windSpeed": 18
+      },
+      {
+        "name": "Hyderabad",
+        "temperature": {
+          "current": 29,
+          "high": 33,
+          "low": 25
+        },
+        "humidity": 68,
+        "condition": "Cloudy",
+        "windSpeed": 12
+      },
+      {
+        "name": "Pune",
+        "temperature": {
+          "current": 26,
+          "high": 31,
+          "low": 22
+        },
+        "humidity": 58,
+        "condition": "Clear",
+        "windSpeed": 10
+      },
+      {
+        "name": "Ahmedabad",
+        "temperature": {
+          "current": 35,
+          "high": 40,
+          "low": 30
+        },
+        "humidity": 55,
+        "condition": "Sunny",
+        "windSpeed": 25
+      },
+      {
+        "name": "Jaipur",
+        "temperature": {
+          "current": 33,
+          "high": 37,
+          "low": 28
+        },
+        "humidity": 50,
+        "condition": "Sunny",
+        "windSpeed": 20
+      },
+      {
+        "name": "Lucknow",
+        "temperature": {
+          "current": 31,
+          "high": 36,
+          "low": 26
+        },
+        "humidity": 65,
+        "condition": "Clear",
+        "windSpeed": 14
+      },
+      {
+        "name": "Kanpur",
+        "temperature": {
+          "current": 32,
+          "high": 38,
+          "low": 27
+        },
+        "humidity": 67,
+        "condition": "Partly Cloudy",
+        "windSpeed": 16
+      },
+      {
+        "name": "Nagpur",
+        "temperature": {
+          "current": 36,
+          "high": 41,
+          "low": 31
+        },
+        "humidity": 53,
+        "condition": "Sunny",
+        "windSpeed": 22
+      },
+      {
+        "name": "Indore",
+        "temperature": {
+          "current": 29,
+          "high": 34,
+          "low": 25
+        },
+        "humidity": 62,
+        "condition": "Cloudy",
+        "windSpeed": 12
+      },
+      {
+        "name": "Thiruvananthapuram",
+        "temperature": {
+          "current": 27,
+          "high": 30,
+          "low": 24
+        },
+        "humidity": 85,
+        "condition": "Rainy",
+        "windSpeed": 15
+      },
+      {
+        "name": "Patna",
+        "temperature": {
+          "current": 34,
+          "high": 39,
+          "low": 29
+        },
+        "humidity": 70,
+        "condition": "Thunderstorms",
+        "windSpeed": 18
+      },
+      {
+        "name": "Bhopal",
+        "temperature": {
+          "current": 30,
+          "high": 35,
+          "low": 25
+        },
+        "humidity": 60,
+        "condition": "Cloudy",
+        "windSpeed": 10
+      },
+      {
+        "name": "Vishakhapatnam",
+        "temperature": {
+          "current": 32,
+          "high": 36,
+          "low": 28
+        },
+        "humidity": 78,
+        "condition": "Clear",
+        "windSpeed": 15
+      },
+      {
+        "name": "Ludhiana",
+        "temperature": {
+          "current": 31,
+          "high": 37,
+          "low": 26
+        },
+        "humidity": 55,
+        "condition": "Clear",
+        "windSpeed": 10
+      },
+      {
+        "name": "Agra",
+        "temperature": {
+          "current": 33,
+          "high": 38,
+          "low": 29
+        },
+        "humidity": 62,
+        "condition": "Sunny",
+        "windSpeed": 16
+      },
+      {
+        "name": "Vadodara",
+        "temperature": {
+          "current": 30,
+          "high": 35,
+          "low": 27
+        },
+        "humidity": 58,
+        "condition": "Clear",
+        "windSpeed": 14
+      },
+      {
+        "name": "Nashik",
+        "temperature": {
+          "current": 28,
+          "high": 32,
+          "low": 24
+        },
+        "humidity": 70,
+        "condition": "Rainy",
+        "windSpeed": 10
+      },
+      {
+        "name": "Rajkot",
+        "temperature": {
+          "current": 35,
+          "high": 40,
+          "low": 30
+        },
+        "humidity": 45,
+        "condition": "Sunny",
+        "windSpeed": 20
+      },
+      {
+        "name": "Varanasi",
+        "temperature": {
+          "current": 32,
+          "high": 36,
+          "low": 28
+        },
+        "humidity": 68,
+        "condition": "Clear",
+        "windSpeed": 15
+      },
+      {
+        "name": "Amritsar",
+        "temperature": {
+          "current": 29,
+          "high": 34,
+          "low": 25
+        },
+        "humidity": 60,
+        "condition": "Partly Cloudy",
+        "windSpeed": 12
+      },
+      {
+        "name": "Allahabad",
+        "temperature": {
+          "current": 33,
+          "high": 38,
+          "low": 28
+        },
+        "humidity": 72,
+        "condition": "Sunny",
+        "windSpeed": 18
+      },
+      {
+        "name": "Aurangabad",
+        "temperature": {
+          "current": 28,
+          "high": 33,
+          "low": 23
+        },
+        "humidity": 65,
+        "condition": "Cloudy",
+        "windSpeed": 11
+      },
+      {
+        "name": "Jodhpur",
+        "temperature": {
+          "current": 34,
+          "high": 39,
+          "low": 30
+        },
+        "humidity": 50,
+        "condition": "Clear",
+        "windSpeed": 22
+      },
+      {
+        "name": "Guwahati",
+        "temperature": {
+          "current": 29,
+          "high": 34,
+          "low": 25
+        },
+        "humidity": 82,
+        "condition": "Thunderstorms",
+        "windSpeed": 14
+      },
+      {
+        "name": "Shimla",
+        "temperature": {
+          "current": 18,
+          "high": 22,
+          "low": 15
+        },
+        "humidity": 70,
+        "condition": "Rainy",
+        "windSpeed": 8
+      },
+      {
+        "name": "Surat",
+        "temperature": {
+          "current": 31,
+          "high": 36,
+          "low": 27
+        },
+        "humidity": 72,
+        "condition": "Partly Cloudy",
+        "windSpeed": 16
+      }
+    ]
+  }
+  
